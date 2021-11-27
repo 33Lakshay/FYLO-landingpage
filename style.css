@@ -67,7 +67,7 @@ a:hover {
 .header { 
 	padding: 0 3%;
 	padding-bottom:10%; 
-	background: url(images/bg-curve-desktop.svg) bottom no-repeat;
+	background: url(bg-curve-desktop.svg) bottom no-repeat;
  }
 
 .nav {
@@ -158,7 +158,7 @@ a:hover {
 }
 
 .testimonials {
-	background: url(images/icon-quotes.svg) top  10% left 8% no-repeat;
+	background: url(icon-quotes.svg) top  10% left 8% no-repeat;
 	background-color: white;
 	padding: 5%;
 	margin: 2rem 36%;
